@@ -19,4 +19,4 @@ ________________________________________
 - [x] an ordered list
 
 __________________________________________
-go to [README](https://github.com/leofountas/markdowntest/new/main?filename=README.md)
+go to [README](https://github.com/leofountas/markdowntest/blob/main/README.md)
