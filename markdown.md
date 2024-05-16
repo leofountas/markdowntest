@@ -8,6 +8,8 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmNhZTM2bjdsaXh3M3R6OXQ4NGUwajR2cDZkaHRqNWZ4bHQ1dzVzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O3GqAYR9jFxLi/giphy.gif" width="300" height="400"/> ... **boop** (a little Boom)
 
+________________________________________
+
 ##### here's a list of all the elements I must use in this challenge
 
 - [x] two or three level of titles and subtitles
@@ -16,3 +18,5 @@
 - [x] some links
 - [x] an ordered list
 
+__________________________________________
+go to [README](https://github.com/leofountas/markdowntest/new/main?filename=README.md)
